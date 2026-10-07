@@ -1,0 +1,8 @@
+client_name,district,price,near_to_mrt,tenure,house_type,land_size,condition,bedrooms,parking,lift,pool,granny_room,facing
+Justin D19,D19,5 mil,Yes,99-year,Terrace,1600,Good,4,1,No,No,Yes,North
+Premium D10,D10,18 mil,Yes,Freehold,Semi-D,3500,Excellent,5+1,2,Yes,Yes,Yes,South
+East Coast Fan,D15,6 mil,Yes,Freehold,Corner Terrace,2200,Original,4,1,No,No,No,East
+Modern D21,D21,12 mil,No,Freehold,Detached,4500,Renovated,5,3,No,Yes,Yes,West
+Entry Level D19,D19,3.5 mil,No,99-year,Terrace,1600,Well-maintained,4,1,No,No,No,North
+High End GCB,D10,60 mil,No,Freehold,Detached,15000,Premium,6+1,4,Yes,Yes,Yes,North
+ Bukit Timah,D21,9 mil,Yes,Freehold,Semi-D,3000,Good,5,2,No,No,Yes,South

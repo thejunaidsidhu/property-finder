@@ -1,0 +1,6 @@
+client_name,district,price,near_to_mrt,tenure,house_type,land_size,condition,bedrooms,parking,lift,pool,granny_room,facing
+John Doe,D10,25 mil,Yes,Freehold,Semi-D,3500,Excellent,5+1,2,Yes,Yes,Yes,North
+Jane Smith,D15,12 mil,No,999-year,Terrace,2200,Good,4,1,No,No,No,South
+Elite Investor,D19,18 mil,Yes,Freehold,Detached,5000,New,6+1,4,Yes,Yes,Yes,East
+Modern Family,D11,20 mil,No,Freehold,Semi-D,3000,Well-maintained,5,2,No,Yes,Yes,West
+Estate Seeker,D21,10 mil,Yes,99-year,Corner Terrace,2800,Original,4,2,No,No,No,North

@@ -1,0 +1,18 @@
+Testing row: ["Client Name","District","Price"]
+ -> HEADER DETECTED (Skipped)
+--------------------------------------------------
+Testing row: ["client_name","district","price"]
+ -> HEADER DETECTED (Skipped)
+--------------------------------------------------
+Testing row: ["client name","District","Price"]
+ -> HEADER DETECTED (Skipped)
+--------------------------------------------------
+Testing row: ["Name","District","Price"]
+ -> HEADER DETECTED (Skipped)
+--------------------------------------------------
+Testing row: ["John Doe","D15","2000000"]
+ -> DATA ROW (Processed)
+--------------------------------------------------
+Testing row: ["Alice","District 10","5mil"]
+ -> DATA ROW (Processed)
+--------------------------------------------------
